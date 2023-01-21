@@ -32,7 +32,7 @@ Run the server using the command "python3 manage.py runserver" with a port numbe
 
 Validate the HTML and CSS code.
 
-### Step 6:
+### Step 7:
 
 Publish the website in the given URL.
 
